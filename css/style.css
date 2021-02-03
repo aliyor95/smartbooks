@@ -1041,6 +1041,7 @@ li {
     background-size: cover;
     display: flex;
     align-items: center;
+    padding-bottom: 100px;
 }
 
 .books__head {
